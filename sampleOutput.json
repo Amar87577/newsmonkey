@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "found": 1034975,
+        "returned": 10,
+        "limit": 10,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "460df23f-2db1-4a04-a69e-8d0d434a96a6",
+            "title": "Giant billboard collapse kills at least 14 in Mumbai",
+            "description": "At least 14 people were killed in the Indian city of Mumbai after a giant billboard collapsed on them during a sudden thunderstorm, local authorities said.",
+            "keywords": "",
+            "snippet": "At least 14 people were killed in the Indian city of Mumbai after a giant billboard collapsed on them during a sudden thunderstorm, local authorities said Tuesd...",
+            "url": "https://www.nbcnews.com/news/world/giant-billboard-collapse-kills-least-14-mumbai-rcna152105",
+            "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240514-mumbai-billboard-mb-0740-64eb02.jpg",
+            "language": "en",
+            "published_at": "2024-05-14T07:19:21.000000Z",
+            "source": "nbcnews.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "361d1b25-d677-4f47-9e4e-ea719d54327e",
+            "title": "The Dencun Dilemma: Can Lower Fees Derail Ethereum's Deflationary Ambitions And Dampen Prospects Of A Price Surge?",
+            "description": "While the much-touted Dencun Upgrade reduced the cost of using Ethereum’s (CRYPTO: ETH) Layer-2 solutions, it also rendered Ethereum inflationary, raising con...",
+            "keywords": "",
+            "snippet": "Loading... Loading...\n\nWhile the much-touted Dencun Upgrade reduced the cost of using Ethereum’s ETH/USD Layer-2 solutions, it also rendered Ethereum inflatio...",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/05/38807524/the-dencun-dilemma-can-lower-fees-derail-ethereums-deflationary-ambitions-and-dampen-prosp",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2024/05/14/Ethereum.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2024-05-14T07:01:47.000000Z",
+            "source": "benzinga.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "041ba15f-d665-4ea5-adf2-741a3b421636",
+            "title": "NY vs. Trump: Michael Cohen's lies, lies and more lies could sink DA Bragg's case",
+            "description": "Michael Cohen was front and center In the Trump hush money trial on Monday. The former attorney presents a vivid contradiction about truth and falsity in a New ...",
+            "keywords": "",
+            "snippet": "NEW You can now listen to Fox News articles!\n\nMichael Cohen raised his right hand on Monday in the Manhattan trial of Donald Trump and swore to tell the truth. ...",
+            "url": "https://www.foxnews.com/opinion/ny-vs-trump-michael-cohens-lies-sink-da-braggs-case",
+            "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/trump-cohen-split.jpg",
+            "language": "en",
+            "published_at": "2024-05-14T07:00:49.000000Z",
+            "source": "foxnews.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "3336764b-834b-4b08-a729-a1fb7d331c8d",
+            "title": "Cannes Cover Story: Aubrey Plaza Says Francis Coppola “Doesn’t Need My Defense”, Reveals The “Collaboration And Experimentation” Of ‘Megalopolis’",
+            "description": "When Aubrey Plaza first got the call about her role in Francis Ford Coppola’s Megalopolis, she’d literally just been at a Godfather gift shop.",
+            "keywords": "",
+            "snippet": "When Aubrey Plaza first got the call about her role in Francis Ford Coppola’s Megalopolis, she’d literally just stocked up on Godfather-themed keychains and...",
+            "url": "https://deadline.com/2024/05/aubrey-plaza-interview-megalopolis-francis-ford-coppola-1235904319/",
+            "image_url": "https://deadline.com/wp-content/uploads/2024/05/Featured-Article-Aubry-Plaza.jpg?w=1024",
+            "language": "en",
+            "published_at": "2024-05-14T06:59:39.000000Z",
+            "source": "deadline.com",
+            "categories": [
+                "entertainment"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "440a6937-2114-4e3a-9d02-db71cef8a57d",
+            "title": "Sony Pictures Entertainment Full-Year Profits Fall Nearly 10% To $808M",
+            "description": "Sony Pictures Entertainment has seen operating income fall nearly 10% for the fiscal year ended March 31, 2024.",
+            "keywords": "",
+            "snippet": "Sony Pictures Entertainment has seen operating income fall nearly 10% for the fiscal year ended March 31, 2024.\n\nThe company’s operating income was $808M in d...",
+            "url": "https://deadline.com/2024/05/sony-pictures-entertainment-profits-slip-2023-full-year-earnings-1235915018/",
+            "image_url": "https://deadline.com/wp-content/uploads/2024/03/MCDANBU_SP005.jpg?w=1024",
+            "language": "en",
+            "published_at": "2024-05-14T06:55:42.000000Z",
+            "source": "deadline.com",
+            "categories": [
+                "entertainment"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "2c5b8334-2fcb-43c3-835b-fa9471ee10ce",
+            "title": "14 dead after massive billboard in Mumbai collapses on gas station",
+            "description": "Authorities said more than 70 people were injured in the incident, which happened as heavy rainfall and a violent dust storm ripped through the city.",
+            "keywords": "",
+            "snippet": "At least 14 people were killed and more than 70 injured when a massive billboard collapsed on a gas station in Mumbai during a violent dust storm and heavy rain...",
+            "url": "https://www.washingtonpost.com/world/2024/05/14/mumbai-billboard-collapse-hoarding-storm/",
+            "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S3VQBPIJJUVJ2KXVPC7PFD2EQY_size-normalized.jpg&w=1440",
+            "language": "en",
+            "published_at": "2024-05-14T06:49:42.000000Z",
+            "source": "washingtonpost.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "b36eec22-7a99-4406-9c3a-fbb7a09431ef",
+            "title": "An Army whistleblower who exposed alleged Australian war crimes in Afghanistan has been sentenced to prison",
+            "description": "An Army whistleblower who exposed alleged Australian war crimes in Afghanistan has been sentenced to prison",
+            "keywords": "Politics, War crimes, World news, General news, Article, 110204075",
+            "snippet": "An Army whistleblower who exposed alleged Australian war crimes in Afghanistan has been sentenced to prison\n\nAn Army whistleblower who exposed alleged Australia...",
+            "url": "https://abcnews.go.com/US/wireStory/army-whistleblower-exposed-alleged-australian-war-crimes-afghanistan-110204075",
+            "image_url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "language": "en",
+            "published_at": "2024-05-14T06:45:59.000000Z",
+            "source": "abcnews.go.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "8aa806bd-1568-463f-aa42-7db656e5a721",
+            "title": "High-Performance Memory Chip Supply To Stay Tight In 2024 Amid Surging AI Demand, Major Manufacturers Face Shortages - NVIDIA (NASDAQ:NVDA), Micron Technology (NASDAQ:MU)",
+            "description": "The global supply of high-performance memory chips is expected to remain constrained throughout 2024, driven by the soaring demand for artificial intelligence t...",
+            "keywords": "",
+            "snippet": "Loading... Loading...\n\nThe global supply of high-performance memory chips is expected to remain constrained throughout 2024, driven by the soaring demand for ar...",
+            "url": "https://www.benzinga.com/news/24/05/38807448/high-performance-memory-chip-supply-to-stay-tight-in-2024-amid-surging-ai-demand-major-manufacturers",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2024/05/14/Semiconductor-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2024-05-14T06:44:57.000000Z",
+            "source": "benzinga.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "83d1fc69-5677-4125-8ed8-d7afb01aaf3c",
+            "title": "Kyle Richards Panics Over Mouse on Her Car",
+            "description": "Kyle Richards went into panic mode when a mouse crawled onto her car on Monday.",
+            "keywords": "",
+            "snippet": "When a mouse crawled onto her parked car, Kyle Richards went into panic mode.\n\nRichards posted the harrowing — and unintentionally hilarious — footage on he...",
+            "url": "https://www.usmagazine.com/celebrity-news/news/kyle-richards-panics-over-mouse-on-her-car/",
+            "image_url": "https://www.usmagazine.com/wp-content/uploads/2024/04/Kyle-Richards.jpg?crop=0px,0px,2000px,1051px&resize=1200,630&quality=86&strip=all",
+            "language": "en",
+            "published_at": "2024-05-14T06:43:19.000000Z",
+            "source": "usmagazine.com",
+            "categories": [
+                "entertainment",
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "914d9fd7-253e-4cd5-ac20-905b0213ca17",
+            "title": "Kyle Richards Panics Over Rat on Her Car",
+            "description": "Kyle Richards went into panic mode when a rat crawled onto her car on Monday.",
+            "keywords": "",
+            "snippet": "When a rat crawled onto her parked car, Kyle Richards went into panic mode.\n\nRichards posted the harrowing — and unintentionally hilarious — footage on her ...",
+            "url": "https://www.usmagazine.com/celebrity-news/news/kyle-richards-panics-over-rat-on-her-car/",
+            "image_url": "https://www.usmagazine.com/wp-content/uploads/2024/04/Kyle-Richards.jpg?crop=0px,0px,2000px,1051px&resize=1200,630&quality=86&strip=all",
+            "language": "en",
+            "published_at": "2024-05-14T06:43:19.000000Z",
+            "source": "usmagazine.com",
+            "categories": [
+                "entertainment",
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        }
+    ]
+}
