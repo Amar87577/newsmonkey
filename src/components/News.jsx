@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import NewsItem from './NewItem'
 import PropTypes from 'prop-types'
-// import Breaking_news from './Images/breaking-news.jpg'
 
 
 export class News extends Component {
